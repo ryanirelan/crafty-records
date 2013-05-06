@@ -78,15 +78,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/a\/j\/foundation\/foundation.orbit.js" : {
+    "\/a\/j\/foundation\/foundation.reveal.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.orbit.js",
+      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.reveal.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.orbit-mijingo.js",
+      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.reveal-mijingo.js",
       "fileType" : 64
     },
     "\/sass\/screen.scss" : {
@@ -112,15 +112,15 @@
       "initialSize" : 91386,
       "fileType" : 4096
     },
-    "\/a\/j\/foundation\/foundation.reveal.js" : {
+    "\/a\/j\/foundation\/foundation.orbit.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.reveal.js",
+      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.orbit.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.reveal-mijingo.js",
+      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.orbit-mijingo.js",
       "fileType" : 64
     },
     "\/a\/j\/foundation\/foundation.joyride.js" : {
@@ -176,16 +176,14 @@
       "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation-mijingo.js",
       "fileType" : 64
     },
-    "\/a\/j\/foundation\/foundation.clearing.js" : {
+    "\/page.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.clearing.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.clearing-mijingo.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/page.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/sass\/_settings.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -199,6 +197,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/a\/j\/foundation\/foundation.clearing.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.clearing.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.clearing-mijingo.js",
+      "fileType" : 64
+    },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -207,15 +216,6 @@
       "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
-    },
-    "\/page.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/page.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/a\/c\/normalize.css" : {
       "ignoreWasSetByUser" : 0,
@@ -257,17 +257,6 @@
       "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.tooltips-mijingo.js",
       "fileType" : 64
     },
-    "\/a\/j\/foundation\/foundation.alerts.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.alerts.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.alerts-mijingo.js",
-      "fileType" : 64
-    },
     "\/a\/j\/vendor\/custom.modernizr.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -277,6 +266,28 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/a\/j\/vendor\/custom.modernizr-mijingo.js",
+      "fileType" : 64
+    },
+    "\/a\/i\/maw-thumb.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/a\/i\/maw-thumb.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/a\/i\/maw-thumb.jpg",
+      "initialSize" : 6598,
+      "fileType" : 4096
+    },
+    "\/a\/j\/foundation\/foundation.alerts.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.alerts.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/a\/j\/foundation\/foundation.alerts-mijingo.js",
       "fileType" : 64
     },
     "\/a\/c\/app.css" : {
@@ -310,6 +321,15 @@
       "outputAbbreviatedPath" : "\/a\/j\/vendor\/jquery-mijingo.js",
       "fileType" : 64
     },
+    "\/staff-listing.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/staff-listing.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -329,6 +349,15 @@
       "outputAbbreviatedPath" : "\/a\/i\/slide-3.jpg",
       "initialSize" : 117934,
       "fileType" : 4096
+    },
+    "\/staff-detail.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/staff-detail.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/a\/c\/ie.css" : {
       "ignoreWasSetByUser" : 0,
@@ -390,7 +419,7 @@
   ],
   "projectSettings" : {
     "hamlNoEscapeInAttributes" : 0,
-    "kitAutoOutputPathStyle" : 0,
+    "kitAutoOutputPathStyle" : 2,
     "lessOutputStyle" : 0,
     "hamlAutoOutputPathReplace2" : "",
     "draggedImportConcatenationStyle" : 1,
